@@ -603,7 +603,7 @@ footer p {
     --main-paragraph-font-size: clamp(1.8rem, 3vw, 2.5rem);
 
     /* color */
-    --header-background-color: #000;
+    --header-background-color: #f9f9f9;
 
     /* time */
     --header-animation-speed: 600ms;
